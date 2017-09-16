@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Realiza Checkin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fazer_checkin">Fazer checkin</string>
+    <string name="explicacao">O app faz checkin, portanto requer GPS.</string>
+    <string name="mapa_indisponivel">O mapa ainda não está pronto.</string>
+    <string name="gps_indisponivel">Sem sinal de GPS.</string>
+    <string name="no_cam_no_pic">Impossível tirar foto.</string>
+    <string name="no_pic_no_checkin">Se você não tirar a foto, não dá pra fazer checkin.</string>
+
+</resources>
