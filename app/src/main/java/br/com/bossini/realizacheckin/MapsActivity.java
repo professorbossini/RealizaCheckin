@@ -172,6 +172,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 }
             }
             else{
+                //torrada no usuário
                 Toast.makeText(this, getString(R.string.no_cam_no_pic), Toast.LENGTH_SHORT).show();
             }
         }
